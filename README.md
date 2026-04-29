@@ -2,17 +2,21 @@
 
 Kişisel portfolyo web sitem.
 Geliştirdiğim yazılım projelerini sergilemek ve teknik gelişimimi göstermek amacıyla oluşturulmuştur.
+
+🔗 **Live Site:** https://mustafakahvci.com
+
 ---
 
 ## 🚀 Overview
 
-Bu proje, statik bir yapı ile oluşturulmuş minimal bir portfolyo sitesidir.
-Frontend tarafı tamamen HTML ve CSS kullanılarak geliştirilmiştir ve GitHub Pages üzerinden yayınlanmaktadır.
-İlerleyen süreçte modern frontend ve backend teknolojileri eklenerek geliştirilecektir.
+Bu proje, statik yapıda geliştirilmiş minimal bir portfolyo sitesidir.
+Frontend tamamen HTML ve CSS kullanılarak oluşturulmuş ve GitHub Pages üzerinden yayınlanmaktadır.
+
+İlerleyen süreçte modern frontend ve backend teknolojileri ile genişletilecektir.
 
 ---
 
-## 🛠️ TechStack
+## 🛠️ Tech Stack
 
 * HTML5
 * CSS3
@@ -29,5 +33,4 @@ Frontend tarafı tamamen HTML ve CSS kullanılarak geliştirilmiştir ve GitHub 
 
 ## 📌 Status
 
-> Aktif olarak geliştirilmektedir.
-
+Aktif olarak geliştirilmektedir.
