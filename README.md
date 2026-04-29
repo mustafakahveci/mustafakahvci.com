@@ -1,38 +1,33 @@
 # 🌐 mustafakahvci.com
 
 Kişisel portfolyo web sitem.
-Yazılım projelerimi sergilemek ve gelişim sürecimi paylaşmak için oluşturulmuştur.
-
+Geliştirdiğim yazılım projelerini sergilemek ve teknik gelişimimi göstermek amacıyla oluşturulmuştur.
 ---
 
-## 🚀 Proje Hakkında
+## 🚀 Overview
 
-Bu proje, sade ve hızlı deploy edilebilir bir yapı ile oluşturulmuş başlangıç seviyesinde bir portfolyo sitesidir.
-
+Bu proje, statik bir yapı ile oluşturulmuş minimal bir portfolyo sitesidir.
+Frontend tarafı tamamen HTML ve CSS kullanılarak geliştirilmiştir ve GitHub Pages üzerinden yayınlanmaktadır.
 İlerleyen süreçte modern frontend ve backend teknolojileri eklenerek geliştirilecektir.
 
 ---
 
-## 🛠️ Teknolojiler
+## 🛠️ TechStack
 
 * HTML5
+* CSS3
 
 ---
 
-## 📂 İçerik
+## 🎯 Purpose
 
-* **Hakkımda**
-* **Projeler**
-* **Yetenekler**
-* **İletişim**
-
----
-
-## 🎯 Amaç
-
-* Projeleri tek bir platformda toplamak
+* Projeleri merkezi bir platformda toplamak
 * GitHub çalışmalarını sergilemek
+* Teknik gelişimi görünür hale getirmek
 
 ---
 
-> Bu repo aktif olarak geliştirilmektedir.
+## 📌 Status
+
+> Aktif olarak geliştirilmektedir.
+
